@@ -1,27 +1,19 @@
- # Rahul Debnath Portfolio
+# CodeAlpha Calculator
 
-A modern responsive developer portfolio website built using HTML, CSS, and JavaScript.
+A responsive calculator built using HTML, CSS, and JavaScript.
 
 ## Features
 
-* Dark/Light Mode
+* Basic Arithmetic Operations
+* Keyboard Support
 * Responsive Design
-* Animated Skill Bars
-* Project Showcase
-* Certifications Section
-* Education Timeline
-* Contact Section
-* Resume Download
+* Clean User Interface
 
 ## Technologies Used
 
 * HTML5
 * CSS3
 * JavaScript
-
-## Live Demo
-
-Add your GitHub Pages link here after deployment.
 
 ## Author
 
